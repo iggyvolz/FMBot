@@ -1,0 +1,8 @@
+*.out
+*.log
+.cache
+composer.lock
+settings*.php
+!settings.default.php
+vendor
+cookies.txt

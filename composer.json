@@ -1,0 +1,14 @@
+{
+    "name": "iggyvolz/fmbot",
+    "description": "Bot for FM games",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iggyvolz",
+            "email": "iggyvolz@gmail.com"
+        }
+    ],
+    "require": {
+        "iggyvolz/phpbb-remote-api": "^1.7"
+    }
+}
